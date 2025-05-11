@@ -106,11 +106,6 @@ const API_SITES = {
         api: 'https://ikunzyapi.com',
         name: 'iKun资源'
     },
-    testSource: {
-        api: 'https://www.example.com',
-        name: '空内容测试源',
-        adult: true
-    },
      ckzy: {
          api: 'https://www.ckzy1.com',
          name: 'CK资源',
@@ -144,8 +139,7 @@ const API_SITES = {
      huangcang: {
          api: 'https://hsckzy.vip',
          name: '黄色仓库',
-         adult: true,
-         detail: 'https://hsckzy.vip'
+         adult: true
      },
      yutu: {
          api: 'https://yutuzy10.com',
