@@ -52,6 +52,14 @@ const API_SITES = {
         api: 'https://360zy.com',
         name: '360资源',
     },
+    iqiyi: {
+        api: 'https://www.iqiyizyapi.com',
+        name: 'iqiyi资源',
+    },
+    xiaomaomi: {
+        api: 'https://zy.xiaomaomi.cc/api.php/provide/vod',
+        name: '小猫咪资源',
+    },
     wolong: {
         api: 'https://wolongzyw.com',
         name: '卧龙资源',
